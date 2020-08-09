@@ -1,0 +1,5 @@
+ALG=HS512
+DEBUG=false
+JTI=hello_castlabs_v0.1
+SIGNATURE=a9ddbcaba8c0ac1a0a812dc0c2f08514b23f2db0a68343cb8199ebb38a6d91e4ebfb378e22ad39c2d01d0b4ec9c34aa91056862ddace3fbbd6852ee60c36acbf
+UPSTREAM_URL=https://ef2f17697360764a56fea3830a22bfd9.m.pipedream.net

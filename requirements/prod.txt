@@ -1,0 +1,5 @@
+aiohttp==3.6.2
+envparse==0.2.0
+gunicorn==20.0.4
+python-jose==3.2.0
+redis==3.5.3
